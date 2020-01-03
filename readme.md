@@ -1,4 +1,4 @@
-# Imagenes_PGMA_en_C
+# Images_PGMA_in_C
 Image treatment project in PGMA format in ASCII , based on a program written in programming language C
 
 /********   SPANISH   ********/
@@ -25,6 +25,9 @@ Las funciones que realiza este programa son las siguientes:
 - Ejecutar la imagen con vuestro PROGRAMA PREDETERMINADO para su visualización. 
 
 ( Este programa aun esta en fase de codificación, por lo que aparecerán nuevas versiones )
+
+Para alguna duda o por otro motivo, pueden contactarme a traves de la siguiente dirección de correo:
+antoniosegurabaza@gmail.com
 
 
 /********   SPANISH   ********/
@@ -54,6 +57,9 @@ The functions performed by this program are the following:
 
 (This program is still in the coding phase, so new versions will appear)
 
+
+For any questions or another reason, you can contact me by email address:
+antoniosegurabaza@gmail.com
 
 /********   ENGLISH   ********/
 
