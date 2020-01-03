@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578087072 source:e:\1º daw\programación c\imagenes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"E:\1º DAW\Programación c\imagenes\functions.h"
+
+1578087128 e:\1º daw\programación c\imagenes\functions.h
+
