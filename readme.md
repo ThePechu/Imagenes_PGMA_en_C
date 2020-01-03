@@ -1,4 +1,4 @@
-# Images_PGMA_in_C
+# Imagenes_PGMA_en_C
 Image treatment project in PGMA format in ASCII , based on a program written in programming language C
 
 /********   SPANISH   ********/
